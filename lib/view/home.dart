@@ -8,7 +8,7 @@ class Home extends StatelessWidget {
     return Scaffold(
       body: Container(
         color: Colors.red,
-        width: 100,
+        width: 70,
         height: 50,
       ),
     );
