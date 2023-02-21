@@ -9,6 +9,7 @@ class Home extends StatelessWidget {
       body: Container(
         color: Colors.red,
         width: 100,
+        height: 50,
       ),
     );
   }
