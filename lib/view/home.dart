@@ -13,7 +13,7 @@ class Home extends StatelessWidget {
         child: Column(
           children: [
             Container(
-              child: Text('dssvd'),
+              child: Text('type'),
             )
           ],
         ),
