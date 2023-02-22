@@ -10,6 +10,13 @@ class Home extends StatelessWidget {
         color: Colors.red,
         width: 90,
         height: 50,
+        child: Column(
+          children: [
+            Container(
+              child: Text('dssvd'),
+            )
+          ],
+        ),
       ),
     );
   }
