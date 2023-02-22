@@ -92,6 +92,10 @@ class _LoginPageState extends State<LoginPage> {
               "Email id",
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
+            Text(
+              "Email id",
+              style: TextStyle(fontWeight: FontWeight.bold),
+            ),
             Padding(
               padding: const EdgeInsets.only(top: 10, bottom: 20),
               child: Container(
