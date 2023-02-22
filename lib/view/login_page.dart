@@ -88,10 +88,7 @@ class _LoginPageState extends State<LoginPage> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
-              "Email id",
-              style: TextStyle(fontWeight: FontWeight.bold),
-            ),
+          
             Text(
               "Email id",
               style: TextStyle(fontWeight: FontWeight.bold),
